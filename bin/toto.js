@@ -8,7 +8,7 @@ const version = require('../package.json').version
 
 const templates = {
   'multi-page': {
-    git: 'http://nxuhe.com:30000/wenxue.cwx/journal.git',
+    git: 'https://github.com/myestorm/multi-page.git',
     desc: [
       '多页应用模板，适用于传统页面开发',
       '基本依赖：webpack + ejs + sass + eslint'
