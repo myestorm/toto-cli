@@ -3,8 +3,8 @@
 
 ## 使用方式
 ```
-toto-cli <模板名称> <项目目录>
-toto-cli multi-page test
+toto <模板名称> <项目目录>
+toto multi-page test
 ```
 
 ## 模板列表
