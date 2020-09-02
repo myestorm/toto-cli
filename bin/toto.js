@@ -8,11 +8,11 @@ const chalk = require('chalk')
 const log = console.log
 
 const templates = {
-  'multi-page': {
-    git: 'https://github.com/myestorm/multi-page.git',
+  'traditional-web': {
+    git: 'https://github.com/myestorm/traditional-web.git',
     desc: [
       '多页应用模板，适用于传统页面开发',
-      '基本依赖：webpack + ejs + sass + eslint'
+      '基本依赖：gulp + webpack + ejs + scss + eslint'
     ]
   }
 }
