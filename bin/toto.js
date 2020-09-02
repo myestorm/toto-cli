@@ -21,7 +21,7 @@ program
   .version(version)
   .description(`
   前端开发应用模板
-  multi-page
+  traditional-web
   `)
 program
   .command('* <tpl> <project>')

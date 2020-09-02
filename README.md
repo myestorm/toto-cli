@@ -4,13 +4,13 @@
 ## 使用方式
 ```
 toto <模板名称> <项目目录>
-toto multi-page test
+toto traditional-web test
 ```
 
 ## 模板列表
 前期模板较少，慢慢更新整理。
 
-### multi-page
-> 多页应用模板，适用于传统页面开发<br>基本依赖：webpack + ejs + sass + eslint。
+### traditional-web
+> 多页应用模板，适用于传统页面开发<br>基本依赖：基本依赖：gulp + webpack + ejs + scss + eslint。
 
-项目地址：[https://github.com/myestorm/multi-page.git](https://github.com/myestorm/multi-page.git)
+项目地址：[https://github.com/myestorm/traditional-web.git](https://github.com/myestorm/traditional-web.git)
