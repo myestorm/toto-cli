@@ -14,14 +14,20 @@ const templates = {
       '多页应用模板，适用于传统页面开发',
       '基本依赖：gulp + webpack + ejs + scss + eslint'
     ]
+  },
+  'markdown-to-html': {
+    git: 'https://github.com/myestorm/markdown-to-html.git',
+    desc: [
+      '利用gulp，将本地markdown文档生成网站'
+    ]
   }
 }
 
 program
   .version(version)
   .description(`
-  前端开发应用模板
-  traditional-web
+Markdown文档生成网站：markdown-to-html
+传统网站开发：traditional-web
   `)
 program
   .command('* <tpl> <project>')
